@@ -1,2 +1,2 @@
-# -IH_RH_DA_FT_MAR_2022_Labs_Activities_Solutions
+# IH_RH_DA_FT_MAR_2022_Labs_Activities_Solutions
  IH_RH_DA_FT_MAR_2022_Labs_Activities_Solutions
